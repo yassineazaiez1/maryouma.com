@@ -1,0 +1,35 @@
+body
+{
+	background-image:url(castle.png);
+	background-size: cover;
+}
+h1
+{
+	color: purple;
+}
+label
+{
+	color: orangered;
+	font-size: 20px;
+	font-family:sans-serif;
+	margin-top:20px;
+}
+input
+{
+	width:15%;
+	border:none;
+	border-radius:6px;
+	padding:7px;
+	border:2px solid lightsteelblue;
+	color: hotpink;
+}
+button
+{
+	width:15%;
+	border:none;
+	border-radius:6px;
+	padding:7px;
+	border:2px solid lightsteelblue;
+	color: limegreen;
+
+}
